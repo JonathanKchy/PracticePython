@@ -1,5 +1,4 @@
-print("hola mundo")
-a=3
-b=2
-c=a+b
-print(c)
+texto="hola"
+texto+=" "
+texto+="Andres"
+print(texto)
